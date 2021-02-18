@@ -1,0 +1,161 @@
+
+body {
+	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	color: #3b3b3b;
+    background-color:rgb(0, 0, 0);
+	padding: 150px;
+}
+
+h1,h2 {
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+	border-bottom: 3px solid #aaa;
+	background-color: #3b3b3b;
+	color: #ddd;
+	padding: 5px;	
+	padding-left: 56px; 
+}
+
+h2 {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #DDD;
+	padding-left: 5px;
+	margin: 0 0 0 -15px;
+	font-weight: normal;
+}
+
+.secao {
+	background-color: rgb(205, 209, 189);
+	padding-left: 15px;
+}
+
+label {
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+label:after {
+	content: ":";
+}
+
+a {
+	text-decoration:none;
+	color: rgb(95, 51, 255);
+}
+
+a:visited {
+	text-decoration:none;
+	color: rgb(95, 51, 255);
+}
+
+a:hover {
+	text-decoration:none;
+	color: #fa0;
+}
+
+#menu {
+	margin: 0;
+}
+
+#menu ul, #menu li {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu .ativo {
+	background-color: #ddd;
+}
+
+.vcard {
+	padding: 10px;
+}
+
+.url, .email {
+	display: block;
+}
+
+.photo {
+	float:left;
+    margin-top: 0%;
+	margin-right: 3%;
+    border-radius:10%;
+}
+
+.photocsharp {
+	max-width: 40px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photojs {
+	max-width: 43px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photohtml {
+	max-width: 43px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photocss {
+	max-width: 30.7px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photosql {
+	max-width: 40px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photogit {
+	max-width: 40px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photonet {
+	max-width: 48px;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photoc {
+
+	max-width: 50px;
+	margin-right: 0%;
+	margin-left: 1%;
+}
+
+.photoemail {
+
+	max-width: 25px;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photowhatsapp {
+
+	max-width: 25px;
+	margin-top: 2%;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+.photolinkedin {
+
+	max-width: 18px;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
